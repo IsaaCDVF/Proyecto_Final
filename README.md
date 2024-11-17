@@ -3,13 +3,12 @@
 ¡Bienvenido a mi proyecto final! Este es un ejemplo de una página web construida con HTML y CSS que muestra cómo estructurar y estilizar contenido básico.
 
 ## Tabla de Contenidos
-1. [ejemplo de una pagina web construida con HTML y CSS](#Descripcion)
-2. [Estructura basica de una pagina](#Caracteristicas)
-3. [Navegadores Web y Programa de edicion de codigo VS](#Requisitos)
-4. [Clonacion del repositorio](#Instalacion)
-5. [Demostracion de estructura basica HTML](#Uso)
-6. [HTML5: Estructura/CSS: Diseño de la pagina](#TecnologiasUtilizadas)
-7. [Ismael Santiago Fuentes](#Autor)
+1. [Descripción](#descripción)
+2. [Características](#características)
+3. [Requisitos](#requisitos)
+4. [Instalación](#instalación)
+6. [Tecnologías Utilizadas](#tecnologías-utilizadas)
+7. [Autor](#autor)
 
 ---
 
@@ -41,4 +40,15 @@ Para ejecutar este proyecto, solo necesitas un navegador web actualizado como:
 1. Clona el repositorio:
    `ash
    git clone https://github.com/IsaaCDVF/Proyecto_Final.git
+
+
+## Tecnologias Utilizadas 
+ HTML5: Para la estructura semántica.
+ CSS3: Para el diseño y estilos.
+ Git: Para el control de versiones.
+
+   ---
+## Autor
+   Ismael Santiago Fuentes
+   
 
