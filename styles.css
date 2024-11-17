@@ -1,0 +1,35 @@
+
+header{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    width: 100%;
+    padding: 10px;
+}
+ .im img{
+    width: 150px;
+    border-radius: 5px;
+}
+.descripcion{
+    flex: 1;
+    margin-left: 20px;
+    text-align: center;
+
+}
+.descripcion h1{
+    text-align: center;
+    margin-bottom: 10px;
+}
+.descripcion h2{
+    text-align: center;
+    margin-bottom: 10px;
+} 
+.descripcion p{
+    text-align: justify;
+}
+
+
+.redes img {
+    width: 70px;
+    border-radius: 5px;
+} 
